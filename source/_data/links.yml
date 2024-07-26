@@ -1,0 +1,24 @@
+- links_category: 大佬
+  has_thumbnail: true
+  list: 
+    - name: 极客逻辑
+      link: https://geek-logic.com
+      description: 极客逻辑 将聚焦在电子创造、怀旧电子设备、电子游戏、极客文化，通过图文、影像资料等方式与各位同好者进行交流，互通有无。
+      avatar: https://i2.hdslb.com/bfs/face/106a8057c453e2ad1f5fd90293ae58f37538c2e2.jpg
+      thumbnail: https://geek-logic.com/wp-content/uploads/2021/04/cropped-20210321_1800231-scaled-e1618735301587-2.jpg # has_thumbnail 为 true 时才需要
+    - name: 浪浪云
+      link: https://blog.langlangy.com/
+      description: 浪浪云将致力于计算、存储、网络、安全等基础性 IT 领域的持续开发，依托多年技术积累的资源整合能力，为全行业客户提供-种简单的方式构建云端业务,为客户业务的创建和发展之路保驾护航。
+      avatar: https://s3.langlangy.com/langlangyblog/738aad1b-03ff-4dd1-936c-d7eaa7b498d5.png
+      thumbnail: https://s3.langlangy.com/langlangyblog/1713236675999.jpg
+- links_category: Normal
+  has_thumbnail: false
+  list: 
+    - name: Example Site
+      link: https://example.com
+      description: Example Site Description
+      avatar: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+    - name: Example Site 2
+      link: https://example.com
+      description: Example Site Description
+      avatar: https://www.youtube.com/watch?v=dQw4w9WgXcQ
